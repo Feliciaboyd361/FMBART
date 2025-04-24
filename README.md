@@ -3,7 +3,7 @@ Capstone Project for Web Design TAMUK Spring 2025
 # Felicia Boyd's Final Project: Comprehensive Website
 
 ## Live Hosted Site URL
-Live Site: 
+Live Site: https://feliciaboyd361.github.io/FMBArt/
 
 ## Project Description
 This website is my final project for the semester and showcases the skills I’ve developed throughout the course. It consists of a multi-page structure with custom styling, responsive design, and interactive JavaScript features. The project reflects a combination of creativity, technical knowledge, and web design principles.
