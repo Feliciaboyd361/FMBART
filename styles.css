@@ -28,14 +28,14 @@ body {
 }
 
 header {
-    color: rgb(156, 9, 136);
+    color: #e83e99;
     text-align: left;
 }
 
 h1 {
     font-family: cursive;
     font-size: clamp(2rem, 5vw, 4rem); 
-    color: rgb(55, 8, 49);
+    color: r#e83e99;
 }
 
 nav {
@@ -44,7 +44,7 @@ nav {
 }
 
 ul {
-    color: rgb(203, 204, 236); 
+    color: #e83e99; 
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
 }
@@ -52,7 +52,7 @@ ul {
 h2 {
     font-size: clamp(1.5rem, 4vw, 3rem); 
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        color: #33031d; 
+        color: #e83e99; 
         font-weight: bold;
         text-shadow: 0 0 2px #9b1c60, 0 0 5px #9828c9, 0 0 10px #162370; 
         padding: 10px;
@@ -60,17 +60,17 @@ h2 {
 
 
 input, textarea {
-    background-color: rgb(153, 155, 201);
+    background-color: #e83e99;
 }
 
 button:hover {
-    background-color: rgb(153, 155, 201);
+    background-color: #e83e99;
 }
 
 p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
-    color: #8e074f; 
+    color: #e83e99; 
     text-shadow: 0 0 2px #090206, 0 0 5px #470f5f, 0 0 10px #080e2f; 
     padding: 10px;
     text-align: center;
@@ -344,7 +344,7 @@ body.night-mode {
     }
     
     h1 {
-        color: #37041f; 
+        color: #e83e99; 
         font-weight: bold;
         text-shadow: 0 0 2px #9b1c60, 0 0 5px #9828c9, 0 0 10px #162370; 
         padding: 10px;
@@ -367,9 +367,13 @@ body.night-mode {
         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); 
     }
     .slideshow p {
-        color: black; 
+        color: #e83e99; 
         text-shadow: none; 
         font-weight: normal; 
         font-size: 16px; 
         margin: 5px 0;
+    }
+    label {
+        color: #e83e99;
+        font-weight: bold;
     }
