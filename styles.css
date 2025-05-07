@@ -377,3 +377,10 @@ body.night-mode {
         color: #e83e99;
         font-weight: bold;
     }
+form input, 
+form textarea, 
+form button {
+    display: block; 
+    width: 75%; 
+    margin-bottom: 10px; 
+}
